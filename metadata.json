@@ -1,0 +1,5 @@
+{
+  "name": "Ahmad AI",
+  "description": "An advanced, self-evolving AI Personal Assistant web application. This app simulates an assistant that can learn new skills by generating code snippets via AI, all within a secure web-based environment.",
+  "requestFramePermissions": []
+}
